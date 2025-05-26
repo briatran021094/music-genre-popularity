@@ -12,10 +12,6 @@ import google_auth_oauthlib.flow
 import googleapiclient.discovery
 import googleapiclient.errors
 
-# === Step 1: Setup credentials ===
-CLIENT_ID = "291370592725-g06rv387lao91g974cingr21rcku2ffg.apps.googleusercontent.com"
-CLIENT_SECRET = "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"
-
 # === Step 2: Define the OAuth scopes (read-only YouTube data) ===
 scopes = ["https://www.googleapis.com/auth/youtube.readonly"]
 
