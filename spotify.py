@@ -4,8 +4,8 @@ import time
 import base64
 
 # Spotify API Credentials
-CLIENT_ID = 'c03a9479599f47fd9658037ae05dda66'
-CLIENT_SECRET = '888ff42cca164da48b10609162111b6e'
+CLIENT_ID = ''
+CLIENT_SECRET = ''
 
 
 # Get access token using Client Credentials Flow
