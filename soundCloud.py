@@ -4,8 +4,8 @@ import bs4
 import os
 
 # SoundCLoud APi Credentials
-CLIENT_ID = "6n1MKLF4MFpbF4nLE5Q4LOhEYQPavpUm"
-CLIENT_SECRET = "ep7RMN3IhGjXjh58B5Toe635bCLO8eSv"
+CLIENT_ID = ""
+CLIENT_SECRET = ""
 
 # new, top, mix, track, and artist urls
 top_url = "http://soundcloud.com/charts/top"
