@@ -4,8 +4,8 @@ import bs4
 import os
 
 # Youtube Data API Credentials
-CLIENT_ID = "291370592725-g06rv387lao91g974cingr21rcku2ffg.apps.googleusercontent.com"
-CLIENT_SECRET = "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"
+CLIENT_ID = ""
+CLIENT_SECRET = ""
 
 import os
 import google_auth_oauthlib.flow
